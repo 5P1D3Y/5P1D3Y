@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy 5P1D3Y
 
-![GIF Banner]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtraTE1Y3NoZGc3cDVyMHNya21xMjhwN21tNWs4aDBqYTh4cHJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0vcCfc5y3MXCHzpzRw/giphy.gif))  
-
 **Fullstack Developer | Web Dev | Innovación & Tecnología**  
 
 ---
