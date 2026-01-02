@@ -1,13 +1,13 @@
-# 👋 Hola, soy 5P1D3Y
+# 👋 ¡Hola! Soy 5P1D3Y
 
-![Banner](https://i.imgur.com/yourBannerLink.png)  
+![GIF Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
 
 **Fullstack Developer | Web Dev | Innovación & Tecnología**  
 
 ---
 
 ## 🔹 Sobre mí
-Transformo ideas en **apps escalables y modernas**, con backend sólido y frontend atractivo.  
+Transformo ideas en **aplicaciones modernas y escalables**, con backend sólido y frontend atractivo.  
 🚀 Apasionado por **JavaScript, TypeScript, Java, Node.js, React, Angular, Spring Boot** y bases de datos SQL/NoSQL.  
 
 ---
@@ -33,8 +33,9 @@ Transformo ideas en **apps escalables y modernas**, con backend sólido y fronte
 
 ---
 
-## 📈 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/5P1D3Y?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&followup.sections=repositories&config.timezone=Europe%2FSpain&config.padding=0%2C%2015%25)
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5P1D3Y&layout=compact&theme=radical)
+![Repos](https://github-readme-stats.vercel.app/api?username=5P1D3Y&show_icons=true&theme=radical)
 
 ---
 
